@@ -1,0 +1,12 @@
+Tmux config
+===========
+
+Dependencies
+------------
+
+* Powerline: apt install powerline
+
+Optional dependencies
+---------------------
+
+* Vim-tmux-navigator: https://github.com/christoomey/vim-tmux-navigator
